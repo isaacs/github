@@ -35,7 +35,7 @@ spend countless hours being productive on their website, and even
 minor problems seem to jump out.
 
 Trolling, disparaging remarks about GitHub, or even just unproductive
-kvetching, will not be tolerated.  Those comments will be deleted and
+[kvetching](http://dictionary.reference.com/browse/kvetching), will not be tolerated.  Those comments will be deleted and
 the users blocked.
 
 We're here to help each other, and the company that does so much for
