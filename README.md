@@ -23,6 +23,9 @@ strictly for our own (unofficial) tracking purposes.** If they reply,
 like a security disclosure, add their reply to the issue so that other
 users can know what their official response was.
 
+Send GitHub the issue URL at the end of the message so that they can
+more easily find updates and further comments here.
+
 ## Statement of Intent
 
 This repository is created in a spirit of positive intent and
