@@ -26,6 +26,12 @@ users can know what their official response was.
 Send GitHub the issue URL at the end of the message so that they can
 more easily find updates and further comments here.
 
+Issues will only be closed once GitHub implements / fixes them,
+or explicitly says WONTFIX, which almost never happens nowadays.
+Issues may take a long time (forever) to be fixed, so make sure that
+you are ready to keep them around on your [/issues](https://github.com/issues)
+list for a long time.
+
 ## Statement of Intent
 
 This repository is created in a spirit of positive intent and
