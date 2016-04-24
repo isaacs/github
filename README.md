@@ -32,6 +32,10 @@ Issues may take a long time (forever) to be fixed, so make sure that
 you are ready to keep them around on your [/issues](https://github.com/issues)
 list for a long time.
 
+## See also
+
+- [Dear GitHub](https://github.com/dear-github/dear-github)
+
 ## Statement of Intent
 
 This repository is created in a spirit of positive intent and
