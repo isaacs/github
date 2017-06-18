@@ -15,3 +15,5 @@ If you merely want to +1 an issue
 ([isaacs/github#9](https://github.com/isaacs/github/issues/9)) please also send
 an email to support@github.com to register your interest. Be sure to also
 include a link to the tracking issue that was filed.
+
+Please don't write +1 comments, use the thumbs up reaction instead. 
