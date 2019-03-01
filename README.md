@@ -26,8 +26,13 @@ users can know what their official response was.
 Send GitHub the issue URL at the end of the message so that they can
 more easily find updates and further comments here.
 
-Issues will only be closed once GitHub implements / fixes them,
-or explicitly says WONTFIX, which almost never happens nowadays.
+Issues will only be closed in one of the following situations:
+- once GitHub implements / fixes it
+- GitHub explicitly says it's a WONTFIX, which almost never happens nowadays
+- it's a duplicate of another issue
+- it contains a lot of abusive content
+
+However if an issue is just a stupid feature, it will likely get many 👎but it can be still opened.
 Issues may take a long time (forever) to be fixed, so make sure that
 you are ready to keep them around on your [/issues](https://github.com/issues)
 list for a long time.
