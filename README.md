@@ -1,5 +1,7 @@
 # Issues for GitHub
 
+## What this repository is about
+
 **This is not the actual repository for the GitHub website.**
 
 I'm not affiliated with GitHub in any way, except that I use it all
@@ -9,6 +11,8 @@ Issues and feature requests posted to GitHub are not stored in any
 publicly available location, so I find that I quickly lose track of
 the things that I've sent them.
 
+## For GitHubbers
+
 If you are a GitHubber, and you would like to respond and close issues
 on this repository, please let me (or one of the other collaborators)
 know, and we'll add you as a collaborator.  Or maybe use some secret
@@ -16,15 +20,29 @@ GitHub internal APIs to get access, if you have such things.  If you
 want to know what people are asking for, or ask for them to provide
 details about use cases etc, then head over to the issues list.
 
-Post an issue if you have an issue or feature request for GitHub.
-**But you should also [contact GitHub](https://support.github.com/contact), since this repo is
-strictly for our own (unofficial) tracking purposes.** If they reply,
-(and they usually do, quickly) and if it is not a confidential matter
-like a security disclosure, add their reply to the issue so that other
-users can know what their official response was.
+## If you have an issue or feature request for GitHub
 
-Send GitHub the issue URL at the end of the message so that they can
-more easily find updates and further comments here.
+1. Search for existing [issues](https://github.com/isaacs/github/issues) here
+2. If you did not find any existing issue for your topic, post a new issue 
+3. **But you should also email support@github.com, since this repo is strictly for our own (unofficial) tracking purposes.** 
+   Send GitHub the issue URL at the end of the message so that they can
+   more easily find updates and further comments here.
+4. If GitHub replies, (and they usually do, quickly) and if it is not a confidential matter
+   like a security disclosure, add their reply to the issue so that other
+   users can know what their official response was.
+
+## Upvoting existing issues
+
+Upvote existing issues with thumbs up :thumbsup:. Please do not add +1 comments.
+
+If you merely want to +1 an issue
+([isaacs/github#9](https://github.com/isaacs/github/issues/9)) please also send
+an email to support@github.com to register your interest. Be sure to also
+include a link to the tracking issue that was filed.
+
+See more in [CONTRIBUTING.md](https://github.com/isaacs/github/blob/master/CONTRIBUTING.md)
+
+## Issue closing policy
 
 Issues will only be closed once GitHub implements / fixes them,
 or explicitly says WONTFIX, which almost never happens nowadays.
