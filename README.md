@@ -17,7 +17,8 @@ want to know what people are asking for, or ask for them to provide
 details about use cases etc, then head over to the issues list.
 
 Post an issue if you have an issue or feature request for GitHub.
-**But you should also email support@github.com, since this repo is
+**But you should also provide feedback to github through their support
+page [here](https://support.github.com/contact/feedback), since this repo is
 strictly for our own (unofficial) tracking purposes.** If they reply,
 (and they usually do, quickly) and if it is not a confidential matter
 like a security disclosure, add their reply to the issue so that other
