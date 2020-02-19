@@ -6,8 +6,8 @@ Please see the README.md and
 [isaacs/github#6](https://github.com/isaacs/github/issues/6) for the reasons
 why this repository exists.
 
-If you file an issue in this repository, be sure to also email
-support@github.com and include a link to the issue you have created. Also be
+If you file an issue in this repository, be sure to also provide feedback to github through their support
+page [here](https://support.github.com/contact/feedback) and include a link to the issue you have created. Also be
 sure to add as a comment to your issue any response(s) you receive from GitHub
 regarding your issue.
 
