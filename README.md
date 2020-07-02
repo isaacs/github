@@ -20,16 +20,17 @@ GitHub internal APIs to get access, if you have such things.  If you
 want to know what people are asking for, or ask for them to provide
 details about use cases etc, then head over to the issues list.
 
+
 ## If you have an issue or feature request for GitHub.
 
 1. Search for existing [issues](https://github.com/isaacs/github/issues) here first
 2. If you did not find any existing issue for your topic, post a new issue. 
-3. **But you should also email support@github.com, since this repo is strictly for our own (unofficial) tracking purposes.** 
-   Send GitHub the issue URL at the end of the message so that they can
-   more easily find updates and further comments here.
-4. If GitHub replies, (and they usually do, quickly) and if it is not a confidential matter
-   like a security disclosure, add their reply to the issue so that other
-   users can know what their official response was.
+
+**But you should also [contact GitHub](https://support.github.com/contact), since this repo is
+strictly for our own (unofficial) tracking purposes.** If they reply,
+(and they usually do, quickly) and if it is not a confidential matter
+like a security disclosure, add their reply to the issue so that other
+users can know what their official response was.
 
 ## Upvoting existing issues
 
