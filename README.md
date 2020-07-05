@@ -17,7 +17,7 @@ want to know what people are asking for, or ask for them to provide
 details about use cases etc, then head over to the issues list.
 
 Post an issue if you have an issue or feature request for GitHub.
-**But you should also email support@github.com, since this repo is
+**But you should also [contact GitHub](https://support.github.com/contact), since this repo is
 strictly for our own (unofficial) tracking purposes.** If they reply,
 (and they usually do, quickly) and if it is not a confidential matter
 like a security disclosure, add their reply to the issue so that other
@@ -31,6 +31,10 @@ or explicitly says WONTFIX, which almost never happens nowadays.
 Issues may take a long time (forever) to be fixed, so make sure that
 you are ready to keep them around on your [/issues](https://github.com/issues)
 list for a long time.
+
+## See also
+
+- [Dear GitHub](https://github.com/dear-github/dear-github)
 
 ## Statement of Intent
 
