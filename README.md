@@ -2,8 +2,16 @@
 
 **This is not the actual repository for the GitHub website.**
 
-I'm not affiliated with GitHub in any way, except that I use it all
-day long, and almost all my code is hosted there.
+<del>I'm not affiliated with GitHub in any way, except that I use it all
+day long, and almost all my code is hosted there.</del>
+
+<ins>UPDATE: as of April 2020, with [the acquisition of npm, Inc. by
+GitHub](https://blog.npmjs.org/post/612764866888007680/next-phase-montage),
+I am a GitHub employee.  I remain focused on the
+[npm/cli](https://github.com/npm/cli) project, and any opinions expressed
+here belong to the person expressing them at the time they were expressed,
+and should not be taken as official GitHub policy in any way.  I still use
+GitHub all day long, and almost all my code is still hosted there.</ins>
 
 Issues and feature requests posted to GitHub are not stored in any
 publicly available location, so I find that I quickly lose track of
