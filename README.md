@@ -32,7 +32,7 @@ details about use cases. Then head over to the issues list.
 
 1. Search for existing [issues](https://github.com/isaacs/github/issues)
 2. If you did not find any existing issue for your topic, post a new issue 
-3. **Additionally, please email support@github.com because this repo is strictly for our own (unofficial) tracking purposes.** 
+3. **Additionally, please send feedback at https://support.github.com/contact/feedback because this repo is strictly for our own (unofficial) tracking purposes.** 
    Make sure to send GitHub the issue URL at the end of the message so that they can
    more easily find updates and further comments here.
 4. If GitHub replies, (and they usually do, quickly) and if it is not a confidential matter
