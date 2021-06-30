@@ -1,3 +1,5 @@
+## IMPORTANT NOTE: GITHUB NOW HAS [AN OFFICIAL FEEDBACK REPOSITORY](https://github.com/github/feedback/discussions/categories/general-feedback). OPEN A DISCUSSION THERE TO ASK QUESTIONS OR DISCUSS BUGS. THIS REPO IS DEPRECATED.
+
 # Issues for GitHub
 
 ## What this repository is about
