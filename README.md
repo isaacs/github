@@ -54,8 +54,13 @@ See more in [CONTRIBUTING.md](https://github.com/isaacs/github/blob/master/CONTR
 
 ## Issue closing policy
 
-Issues will only be closed once GitHub implements / fixes them,
-or explicitly says WONTFIX, which almost never happens nowadays.
+Issues will only be closed in one of the following situations:
+- once GitHub implements / fixes it
+- GitHub explicitly says it's a WONTFIX, which almost never happens nowadays
+- it's a duplicate of another issue
+- it contains a lot of abusive content
+
+However if an issue is just a stupid feature, it will likely get many 👎but it can be still opened.
 Issues may take a long time (forever) to be fixed, so make sure that
 you are ready to keep them around on your [/issues](https://github.com/issues)
 list for a long time.
